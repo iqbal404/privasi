@@ -122,7 +122,7 @@ function auto_safeconvert() {
     /*TAMBAH DISINI LINK POSTINGANNYA*/
     
     var daftarPostingan = [
-      http://www.artikelmore.tech/2018/04/artikelmore-sebagian-orang-mungkin.html,
+      "http://www.artikelmore.tech/2018/04/artikelmore-sebagian-orang-mungkin.html",
 
     ];
     /* Jika ingin menambah postingan, copas saja */
