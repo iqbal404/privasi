@@ -118,13 +118,10 @@ function auto_safeconvert() {
     a_to_vg = a_to_vf.length;
     var a_to_vh = false;
     var j = 0;
-
-    /*TAMBAH DISINI LINK POSTINGANNYA*/
-    
+    /*TAMBAHIN DISINI TOD*/
     var daftarPostingan = [
       "https://weqeeqweq.blogspot.com/2019/03/blog-post.html",
     ];
-    /* Jika ingin menambah postingan, copas saja */
 
     var randomPostingan = daftarPostingan[Math.floor(Math.random()*daftarPostingan.length)];
     var a_to_vi = "";
