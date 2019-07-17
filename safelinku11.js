@@ -118,14 +118,17 @@ function auto_safeconvert() {
     a_to_vg = a_to_vf.length;
     var a_to_vh = false;
     var j = 0;
-    /*TAMBAHIN DISINI TOD*/
+
+    /*TAMBAH DISINI LINK POSTINGANNYA*/
+    
     var daftarPostingan = [
-      "https://buatbloggt.blogspot.com/2019/01/1.html",
-      "https://buatbloggt.blogspot.com/2019/01/2.html",
-      "https://buatbloggt.blogspot.com/2019/01/3.html",
-      "https://buatbloggt.blogspot.com/2019/01/4.html",
-      "https://buatbloggt.blogspot.com/2019/01/5.html"
+      "https://safelinkubaru.blogspot.com/2019/07/wow4.html",
+      "https://safelinkubaru.blogspot.com/2019/07/wow3.html",
+      "https://safelinkubaru.blogspot.com/2019/07/wow2.html",
+      "https://safelinkubaru.blogspot.com/2019/07/wow1.html",
+      "https://safelinkubaru.blogspot.com/2019/07/wow.html",
     ];
+    /* Jika ingin menambah postingan, copas saja */
 
     var randomPostingan = daftarPostingan[Math.floor(Math.random()*daftarPostingan.length)];
     var a_to_vi = "";
